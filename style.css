@@ -1,0 +1,19 @@
+body{
+    background-image:url(315911.jpg);
+    animation-play-state: running;
+}
+table{
+    background-color: bisque;
+}
+hr{
+    
+   border-width: 10px;
+   border-color: white;
+   border-style: dotted none none ;
+   width: 10%;
+}
+h3{
+    color:#FF6E31;
+    font-style:italic;
+
+}
