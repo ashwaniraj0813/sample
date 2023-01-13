@@ -1,9 +1,9 @@
-body{
+#bodytwo{
     background-image:url(315911.jpg);
     animation-play-state: running;
 }
-table{
-    background-color: bisque;
+#bodyone{
+    background-color:#EAC7C7;
 }
 hr{
     
@@ -12,8 +12,45 @@ hr{
    border-style: dotted none none ;
    width: 10%;
 }
-h3{
-    color:#FF6E31;
-    font-style:italic;
-
+.table:hover{
+    background-color: aqua;
+}
+.first{
+    color: black;
+}
+.second{
+    color: blue;
+}
+#third{
+    background-color: #A75D5D;
+}
+#forth{
+    background-color: #F8EDE3;
+}
+.fifth{
+    border-radius: 100%;
+    border-width: 50px;
+}
+.buttom{
+    width: 10em;
+    height: 5ex;
+    cursor: pointer;
+    background-color: gold;
+    font-weight: bold;
+    border: 2px solid firebrick;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.buttom:hover{
+    background-color: green;
+}
+.o{
+    font-size: 19px;
+    font-weight: bold;
+}
+#bottom{
+    position: absolute;
+    bottom: 0;
+    left: 720px;
+   
 }
